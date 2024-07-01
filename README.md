@@ -1,4 +1,4 @@
-### <p align="center">🕷️ luhsrry 🕷️</p>
+### <p align="center">🕷️ souljaminaj 🕷️</p>
 <p align= "center">
   <img src="https://komarev.com/ghpvc/?username=srryx">
   <br>
